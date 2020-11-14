@@ -1,4 +1,4 @@
-# Generate-password
+# Password-criteria
 
 This is one of my first tasks during my beginner Java course. <br>
 <br>
